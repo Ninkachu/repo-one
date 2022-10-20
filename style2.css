@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    color:rgb(7, 31, 27);
+    text-align:center;
+}
+
+*{
+    text-align: justify;
+    color:antiquewhite;
+
+}
+div{
+    padding-top:50px;
+    padding-right:30px;
+    padding: bottom 50px;
+    padding-left:80px;
+}
